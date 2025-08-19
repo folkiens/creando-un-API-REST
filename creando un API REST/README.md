@@ -6,4 +6,4 @@
 Descripción del Repositorio.
 
 
-Este repositorio tiene como objetivo brindar una guía completa para aquellos interesados en desarrollar una API REST con base de datos MySQL y nos permite crear una aplicación robusta y escalable.
+Este repositorio tiene como objetivo brindar una guía completa para aquellos interesados en desarrollar una API REST con base de datos MySQL y nos permite crear una aplicación robusta.
